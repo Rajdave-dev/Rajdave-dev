@@ -1,13 +1,6 @@
-### Hello, Guys
+### Hello, I'm Raj, a young developer from India 🇮🇳
 
-Here are some ideas to get you started:
+Currently I'm Working on my app.
 
-- 🔭 I’m currently working on MoneyFly
-- 🌱 I’m currently learning Nothing
-- 👯 I’m looking to collaborate on Nothing
-- 🤔 I’m looking for help with Java, Jetpack Compose 
-- 💬 Ask me about Java. 
-- 📫 How to reach me: rajdave018@gmail.com
-- 😄 Pronouns: Raj
-- ⚡ Fun fact: Busy in making my and others apps better. 🤗
-
+Website -
+https://rajdave-dev.github.io/Rajdave-dev
